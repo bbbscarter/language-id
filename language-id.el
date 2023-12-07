@@ -227,6 +227,7 @@
     ("Lua" lua-mode)
     ("Markdown" gfm-mode markdown-mode)
     ("Meson" meson-mode)
+    ("Nim" nim-mode)
     ("Nix" nix-mode)
     ("Objective-C" objc-mode)
     ("OCaml" caml-mode tuareg-mode)
